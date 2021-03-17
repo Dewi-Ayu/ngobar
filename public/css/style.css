@@ -1,0 +1,39 @@
+
+/* ini adalah style jumbotron */
+.jumbotron {
+    background-image: url(img/slider1.jpg);
+    background-size: cover;
+    height: 750px;
+    text-align: center;
+    margin-top: -120px;
+
+}
+.jumbotron .display-4 {
+    color: yellow;
+    margin-top: 200px;
+}
+.jumbotron p {
+    color: yellowgreen;
+    font-size: 25px;
+}
+.jumbotron hr{
+    border-color: #f05f40;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: #f05f40;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+
+/* ini adalah style slider  */
+
+.carousel-item {
+    height: 670px;
+}
+
